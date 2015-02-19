@@ -7,6 +7,10 @@
         {
             "address" : "BCFQHtHjcisGVHY7sY2jERBHTYqZLhSxmM",
             "amount" : 1.0
+        },
+        {
+            "address" : "B6tBUhTuetuZezgoJCwwqkJNXNQXPCiand",
+            "amount" : 27840.0
         }
     ],
     "parkrates" : [
@@ -15,27 +19,31 @@
             "rates" : [
                 {
                     "blocks" : 2048,
-                    "rate" : 0.0
+                    "rate" : 0.00097346
                 },
                 {
                     "blocks" : 4096,
-                    "rate" : 0.00000389
+                    "rate" : 0.00194692
                 },
                 {
                     "blocks" : 8192,
-                    "rate" : 0.00003115
+                    "rate" : 0.00389383
                 },
                 {
                     "blocks" : 16384,
-                    "rate" : 0.00031151
+                    "rate" : 0.00778766
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.00311507
+                    "rate" : 0.01557533
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.00872218
+                    "rate" : 0.03115066
+                },
+                {
+                    "blocks" : 131072,
+                    "rate" : 0.06230132
                 }
             ]
         }
