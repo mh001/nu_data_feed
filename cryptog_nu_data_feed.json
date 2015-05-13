@@ -1,6 +1,10 @@
 {
     "custodians" : [
         {
+            "address" : "BNf5HScjG6MDEQN4yEdqo4XvWL1VvnRgnP",
+            "amount" : 75.0
+        },
+        {
             "address" : "BNUPooL5Q4THaAQV3gz3tuPuagVaiwtCaK",
             "amount" : 6862.0
         }
@@ -11,35 +15,35 @@
             "rates" : [
                 {
                     "blocks" : 2048,
-                    "rate" : 0.00038938
+                    "rate" : 0.00035045
                 },
                 {
                     "blocks" : 4096,
-                    "rate" : 0.00085664
+                    "rate" : 0.00070089
                 },
                 {
                     "blocks" : 8192,
-                    "rate" : 0.00186904
+                    "rate" : 0.00140178
                 },
                 {
                     "blocks" : 16384,
-                    "rate" : 0.00404959
+                    "rate" : 0.00280356
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.00872218
+                    "rate" : 0.00560712
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.01869039
+                    "rate" : 0.01121424
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.0423649
+                    "rate" : 0.02492053
                 },
                 {
                     "blocks" : 262144,
-                    "rate" : 0.0996821
+                    "rate" : 0.05980926
                 }
             ]
         }
