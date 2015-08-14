@@ -1,10 +1,6 @@
 {
     "custodians" : [
         {
-            "address" : "BSTGvERBWS6vYhUKgTuUn8s9z3nsmYpS3x",
-            "amount" : 300.0
-        },
-        {
             "address" : "BKWr7JR6Bwnk2VzNbgPxUtxDFynVdzHJej",
             "amount" : 4315.19
         }
@@ -45,5 +41,7 @@
         }
     ],
     "motions" : [
-    ]
+    ],
+    "fees" : {
+    }
 }
