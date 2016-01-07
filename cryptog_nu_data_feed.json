@@ -1,14 +1,6 @@
 {
     "custodians" : [
         {
-            "address" : "BAwbootKP1sWHhuhnYGfaf9nMLfF7LFdVF",
-            "amount" : 4760.0
-        },
-        {
-            "address" : "BFqe2tA4wJyDsP2CG2yDtki4wpTzSaAgfX",
-            "amount" : 2800.0
-        },
-        {
             "address" : "BLn12cB6vag2B4Q1nJeKf3gyt4Zivz84zv",
             "amount" : 4100.0
         },
@@ -53,8 +45,8 @@
         }
     ],
     "motions" : [
-        "a0a57d12ec67ac6816532f8a0afffd9b7ce14329",
-        "685bcc7211db2536734042c65d78d150348a3ec5"
+        "685bcc7211db2536734042c65d78d150348a3ec5",
+        "33a5c90451764d2c5c1e6794e2c352d2423618e4"
     ],
     "fees" : {
         "B" : 0.01
