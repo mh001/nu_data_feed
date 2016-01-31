@@ -5,10 +5,6 @@
             "amount" : 600.0
         },
         {
-            "address" : "BEDt9yB7J2Vzp1A9UvD91vNuA1oJGyLqQ8",
-            "amount" : 4760.0
-        },
-        {
             "address" : "BTdQH5QNHU1EHsbAxfbZfQpk9YRR8EDJfu",
             "amount" : 198.0
         },
@@ -53,7 +49,8 @@
         }
     ],
     "motions" : [
-        "685bcc7211db2536734042c65d78d150348a3ec5"
+        "685bcc7211db2536734042c65d78d150348a3ec5",
+        "6311782b5d731cd45dd6873b24bcd6e62846fb2d"
     ],
     "fees" : {
         "B" : 0.01
