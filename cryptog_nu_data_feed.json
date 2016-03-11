@@ -7,10 +7,6 @@
         {
             "address" : "BRUuKfGur7CZSLy65gYUPJUQyQZeT1XQnD",
             "amount" : 1.0
-        },
-        {
-            "address" : "BET6WJctWyC6wpRfE9ytrVDHJSb8duG1kE",
-            "amount" : 1.0
         }
     ],
     "parkrates" : [
@@ -52,7 +48,9 @@
         "685bcc7211db2536734042c65d78d150348a3ec5",
         "25d8226a7aeb47370e8db0c2035296fb7e2c4095",
         "f27c979e0ba6f8dfc77a4305ccdc9ed9452230b2",
-        "a21a63a806cbd0d640f692911c503818c1579b94"
+        "a21a63a806cbd0d640f692911c503818c1579b94",
+        "c8736970e5a824b07ad4c32eac60a50e37c093d8",
+        "ee20086eb56a8a7b0f722227086b05de9941a293"
     ],
     "fees" : {
         "B" : 0.01
