@@ -21,8 +21,12 @@
             "amount" : 450.0
         },
         {
-            "address" : "BP7geZ2uhdeaqS5vX8Zx3abd43abs62aus",
-            "amount" : 1750.0
+            "address" : "BLYdibXLb7ixXgKW5bFVD4KiCRLkyk6Ks6",
+            "amount" : 4760.0
+        },
+        {
+            "address" : "B6t3WuYQvqEW9SqjmpJDA1oy9cXbyFzgoq",
+            "amount" : 3000.0
         }
     ],
     "parkrates" : [
@@ -64,7 +68,8 @@
         "685bcc7211db2536734042c65d78d150348a3ec5",
         "25d8226a7aeb47370e8db0c2035296fb7e2c4095",
         "c8736970e5a824b07ad4c32eac60a50e37c093d8",
-        "ee20086eb56a8a7b0f722227086b05de9941a293"
+        "ee20086eb56a8a7b0f722227086b05de9941a293",
+        "a951e9e8e72bcb313eb7fc6c65c797ccb53b9ef0"
     ],
     "fees" : {
         "B" : 0.01
