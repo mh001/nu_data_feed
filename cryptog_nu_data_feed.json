@@ -1,12 +1,32 @@
 {
     "custodians" : [
         {
-            "address" : "B9gXptkoqAApF3AFrQyhUbhSzvuEudxupt",
-            "amount" : 90.0
+            "address" : "BRsLYtJhPhz7QdkKK54HkoizUrNk64wFwf",
+            "amount" : 1280.0
         },
         {
-            "address" : "BACKPAcVxFXfRXCmUBFWZjcAw79ZyJAAUA",
-            "amount" : 400.0
+            "address" : "B5HupPg3ELbuaz4cuuGNoxREuVKJPZTToa",
+            "amount" : 4760.0
+        },
+        {
+            "address" : "BPyBotXoVMiAFWLwcxRpSntP9oe2NGYPtE",
+            "amount" : 129.0
+        },
+        {
+            "address" : "B9Uid7z3hKczGAKT2QxjYQ1yetVK4gz9Mi",
+            "amount" : 249.0
+        },
+        {
+            "address" : "BTBeS9ezRDm7hWABXLM6WpTSVeH8Ec2FBd",
+            "amount" : 900.0
+        },
+        {
+            "address" : "BF46YvCKsppCC8eDD55FKeaWQa6nbK7BUx",
+            "amount" : 806.0
+        },
+        {
+            "address" : "BPACKiS7Q5wdishcEzabgXV8dRJJV1uXgt",
+            "amount" : 600.0
         }
     ],
     "parkrates" : [
@@ -19,19 +39,19 @@
                 },
                 {
                     "blocks" : 4096,
-                    "rate" : 0.00124603
+                    "rate" : 0.00077877
                 },
                 {
                     "blocks" : 8192,
-                    "rate" : 0.00249205
+                    "rate" : 0.00155753
                 },
                 {
                     "blocks" : 16384,
-                    "rate" : 0.00498411
+                    "rate" : 0.00311507
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.00623013
+                    "rate" : 0.00498411
                 },
                 {
                     "blocks" : 65536,
@@ -39,16 +59,14 @@
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.00498411
+                    "rate" : 0.01246026
                 }
             ]
         }
     ],
     "motions" : [
         "685bcc7211db2536734042c65d78d150348a3ec5",
-        "f1a5bee323f6f3100e962ad41a0e9f9678930500",
-        "b59c750a307160b4f1cb5bedfd6027e17b5a0ab4",
-        "9d3538c6e95e0cfeae7afeeb5e82874a25040276"
+        "c178a7fcd6941ae8845bdd286eef3130460eaab3"
     ],
     "fees" : {
         "B" : 0.01,
