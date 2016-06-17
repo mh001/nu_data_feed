@@ -1,17 +1,5 @@
 {
     "custodians" : [
-        {
-            "address" : "BF46YvCKsppCC8eDD55FKeaWQa6nbK7BUx",
-            "amount" : 806.0
-        },
-        {
-            "address" : "BPACKiS7Q5wdishcEzabgXV8dRJJV1uXgt",
-            "amount" : 600.0
-        },
-        {
-            "address" : "Snvrc5q82wfe2NjEjaQAyStpPKseWrsNqn",
-            "amount" : 100000000.0
-        }
     ],
     "parkrates" : [
         {
@@ -50,7 +38,6 @@
     ],
     "motions" : [
         "685bcc7211db2536734042c65d78d150348a3ec5",
-        "c178a7fcd6941ae8845bdd286eef3130460eaab3",
         "29d364f8677c7c955d423747fcf5005fd00f2e6b",
         "bd4d153bb5c2d8cd6013b77ad8780eabc7bae79e",
         "28ad569f5224884fc1247bd9a18bf96bf8b8f0ab"
