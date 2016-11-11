@@ -1,5 +1,13 @@
 {
     "custodians" : [
+    {
+      "address": "BACkPaCKkLFhM5WPqVucRKQCeepwjyMLNF",
+      "amount": 600
+    },
+    {
+      "address": "BACkPaCkqmmjnnzvMkayDfcZu8US3myy1e",
+      "amount": 400
+    }
     ],
     "parkrates" : [
         {
